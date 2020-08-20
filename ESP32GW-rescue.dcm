@@ -1,0 +1,63 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0603_0Ω__0R0_1%-lc_RES
+F http://www.szlcsc.com/product/details_21903.html
+$ENDCMP
+#
+$CMP 0603_100nF__104_10%_50V-lc_Cap
+F http://www.szlcsc.com/product/details_15331.html
+$ENDCMP
+#
+$CMP 0603_100pF__101_5%_50V-lc_Cap
+F http://www.szlcsc.com/product/details_15530.html
+$ENDCMP
+#
+$CMP 0603_100Ω__1000_1%-lc_RES
+F http://www.szlcsc.com/product/details_23502.html
+$ENDCMP
+#
+$CMP 0603_10KΩ__1002_1%-lc_RES
+F http://www.szlcsc.com/product/details_26547.html
+$ENDCMP
+#
+$CMP 0603_10nF__103_10%_50V-lc_Cap
+F http://www.szlcsc.com/product/details_58143.html
+$ENDCMP
+#
+$CMP 0603_10uF__106_10%_10V-lc_Cap
+F http://www.szlcsc.com/product/details_20411.html
+$ENDCMP
+#
+$CMP 0603_12KΩ__1202_1%-lc_RES
+F http://www.szlcsc.com/product/details_23517.html
+$ENDCMP
+#
+$CMP 0603_1KΩ__1001_1%-lc_RES
+F http://www.szlcsc.com/product/details_21904.html
+$ENDCMP
+#
+$CMP 0603_1uF__105_10%_50V-lc_Cap
+F http://www.szlcsc.com/product/details_16531.html
+$ENDCMP
+#
+$CMP 0603_2.2KΩ__2201_1%-lc_RES
+F http://www.szlcsc.com/product/details_4597.html
+$ENDCMP
+#
+$CMP 0603_270Ω__2700_1%-lc_RES
+F http://www.szlcsc.com/product/details_23693.html
+$ENDCMP
+#
+$CMP 0805_100Ω_25%_100MHz-lc_IUD
+F http://www.szlcsc.com/product/details_1367.html
+$ENDCMP
+#
+$CMP 3216_10uF__106_10%_16V-lc_Cap
+F http://www.szlcsc.com/product/details_7643.html
+$ENDCMP
+#
+$CMP 3528_100uF__107_10%_6.3V-lc_Cap
+F http://www.szlcsc.com/product/details_16815.html
+$ENDCMP
+#
+#End Doc Library
